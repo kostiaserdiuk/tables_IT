@@ -1,0 +1,137 @@
+body{
+    font-family: Quicksand-Light;
+}
+
+li{
+    list-style-type: none;
+}
+.left-block{
+    border: 1px solid black;
+    width: 250px;
+    height: 900px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+}
+
+.left-list{
+    margin-left: 0px;
+    padding-left: 0px;
+    text-align-last: center;
+}
+
+span{
+    text-align-last: left;
+    
+}
+
+.mid-list{
+    padding-left: 0px;
+}
+
+.dline{
+    line-height: 0px;
+}
+
+.center-block-inside{
+    margin-left: 25px;
+    margin-bottom: 215px;
+}
+
+.mid-line{
+    width: 1425px;
+    box-shadow: 0px 0px 2px black;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.left-line{
+    box-shadow: 0px 0px 2px black;
+}
+
+.mid-block{
+    border: 1px solid black;
+    width: 1500px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;  
+}
+
+#left-block-under{
+    margin-bottom: 250px;
+}
+
+#main-table{
+    border-collapse: separate;
+    border-spacing: 50px;
+    border: 0px solid black;
+    width: 100%;
+}
+#top-name{
+    padding-bottom: 150px;
+}
+
+#table-left{
+    padding-left: 16%;
+}
+
+#mid-top-name{
+    margin-bottom: 150px;
+    padding-left: 47%;
+}
+
+#prelast-line{
+    margin-bottom: 150px;
+}
+
+#button{
+    padding-left: 46%;
+    opacity: 0.6;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+}
+
+#button-inside{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(7, 174, 129);
+    text-align-last: center;
+    padding-top: 14px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#adapt{
+    width: 100%;
+}
+
+#last-line{
+    margin-top: 25px;
+}
+
+#button:hover{
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@font-face {
+    font-family: "Quicksand-Light";
+    src: url(fonts/Quicksand-Light.ttf);
+}
